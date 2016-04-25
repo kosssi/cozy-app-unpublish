@@ -1,5 +1,8 @@
 # cozy-app-unpublish
 
+:warning: All this applications are developed by the Cozy community, so there can contain security bugs. :warning: 
+
+
 | Name                    |           Description                            | Cozy Application                                 |
 |:-----------------------:|:------------------------------------------------:|:------------------------------------------------:|
 | [JSON resume][1]        | Create Curriculum Vitae with JSON format         | https://github.com/clochix/resume.git@cozy       |
