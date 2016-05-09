@@ -11,6 +11,7 @@
 | [Laverna][4]            | Keep your notes private                          | https://github.com/ZeHiro/cozy-laverna           |
 | [Keeweb][5]             | Password manager compatible with KeePass         | https://github.com/clochix/cozy-keeweb           |
 | cozy-portfolio          |  A portfolio application for Cozy Cloud          | https://github.com/CPatchane/cozy-portfolio      |
+| cozy-downloader         | Download files from a given URL                  | https://github.com/SomeAverageDev/cozy-downloader|
 
 [1]:  https://jsonresume.org/
 [2]:  http://cloudcmd.io/
