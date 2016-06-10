@@ -12,9 +12,11 @@
 | [Keeweb][5]             | Password manager compatible with KeePass         | https://github.com/clochix/cozy-keeweb           |
 | cozy-portfolio          |  A portfolio application for Cozy Cloud          | https://github.com/CPatchane/cozy-portfolio      |
 | cozy-downloader         | Download files from a given URL                  | https://github.com/SomeAverageDev/cozy-downloader|
+| [Voice Memos][6]        | App for recording and playing back voice memos   | https://github.com/clochix/voice-memos           |
 
 [1]:  https://jsonresume.org/
 [2]:  http://cloudcmd.io/
 [3]:  https://github.com/silverwind/droppy
 [4]:  https://laverna.cc/
 [5]:  https://keeweb.info/
+[6]:  https://github.com/GoogleChrome/voice-memos
