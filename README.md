@@ -13,6 +13,7 @@
 | cozy-portfolio          |  A portfolio application for Cozy Cloud          | https://github.com/CPatchane/cozy-portfolio      |
 | cozy-downloader         | Download files from a given URL                  | https://github.com/SomeAverageDev/cozy-downloader|
 | [Voice Memos][6]        | App for recording and playing back voice memos   | https://github.com/clochix/voice-memos           |
+| syncozies               | Sync a local Cozy instance with a remote Cozy.   | https://github.com/jacquarg/syncozies            |
 
 [1]:  https://jsonresume.org/
 [2]:  http://cloudcmd.io/
